@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Trade Tickers",
+  title: "Klick Trading",
   description: "Track real-time stock prices, get personalized alert and explore detail company insights.",
 };
 
