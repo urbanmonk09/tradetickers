@@ -38,10 +38,11 @@ export const PREFERRED_INDUSTRIES = [
 // Popular Symbols (Single Source)
 // ===============================
 export const POPULAR_STOCK_SYMBOLS = [
-  "AAPL", "MSFT", "GOOGL", "AMZN", "TSLA", "META", "NVDA", "NFLX",
+  
   "RELIANCE", "TCS", "INFY", "HDFCBANK", "ICICIBANK",
   "SBIN", "ITC", "LT", "BHARTIARTL", "AXISBANK",
   "BTCUSD", "ETHUSD", "XAUUSD",
+  "AAPL", "MSFT", "GOOGL", "AMZN", "TSLA", "META", "NVDA", "NFLX"
 ];
 
 // ===============================

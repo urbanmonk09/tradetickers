@@ -7,6 +7,7 @@ import Logo from "./Logo";
 const Header = () => {
   return (
     <header className="sticky top-0 header">
+      
       <div className="container header-wrapper flex items-center">
         
         {/* Logo */}
